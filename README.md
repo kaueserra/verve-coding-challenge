@@ -8,13 +8,11 @@ Our expectation is for you to not spend more than one hour on this. Please send 
 
 
 The challenge consists of two parts. Please ensure that your solutions contains
-
-**Required**  
 - Your Answer to Part One and Part Two  
 - Runnable code to reproduce you solution
 - Dependencies of your solution that we might need in order to run it, if any.
 
-**Optional**    
+**Optional Considerations**    
 - Document your code with comments wherever you find it necessary to helps the reviewer in understanding your logic
 - Consider sending us your solution also via a gist.
 
