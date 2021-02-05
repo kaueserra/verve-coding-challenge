@@ -16,6 +16,7 @@ The challenge consists of two parts. Please ensure that your solutions contains
 
 **Optional**    
 - Document your code with comments wherever you find it necessary to helps the reviewer in understanding your logic
+- Consider sending us your solution also via a gist.
 
 ---------  
 Challenge  
