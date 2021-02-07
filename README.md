@@ -13,8 +13,8 @@ The challenge consists of two parts. Please ensure that your solutions contains
 - Dependencies of your solution that we might need in order to run it, if any.
 
 **Optional Considerations**    
-- Document your code with comments wherever you find it necessary to helps the reviewer in understanding your logic
-- Consider sending us your solution also via a gist.
+- Document your code with comments to help the reviewer in understanding your logic, wherever necessary.
+- Consider sending us your solution via a gist.
 
 ---------  
 Challenge  
