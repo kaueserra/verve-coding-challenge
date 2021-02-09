@@ -24,7 +24,7 @@ python kaue \dataset part1
 ```bash
 python kaue \dataset part2
 ```
-### 4. After this, it will print the results and also save it in a txt file with the endings according with each part 
+### 4. After this, it will print the results and also save it in a txt file with the endings according with each part for analysing the function itself, please enter in the file kaue/functions.py and they are commented for you to follow my logic
 
 
 ### 5. Thanks for the Coding Challenge and I hope to hear from you soon =)  
