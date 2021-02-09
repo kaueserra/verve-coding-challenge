@@ -1,44 +1,32 @@
-------------
-INSTRUCTIONS
-------------
-Thank you for taking our Data Science Coding Challenge. 
-The purpose of this challenge is to evaluate your basic programming skills in Python.
-This challenge is not timed, so you can take it whenever you have about an hour free in your Day. 
-Our expectation is for you to not spend more than one hour on this. Please send us your solution back within 2 days of receiving this challenge.
+# Verve Coding Challenge 
 
 
-The challenge consists of two parts. Please ensure that your solutions contains
-- Your Answer to Part One and Part Two  
-- Runnable code to reproduce you solution
-- Dependencies of your solution that we might need in order to run it, if any.
+# # For Python 3.7  
 
-**Optional Considerations**    
-- Document your code with comments to help the reviewer in understanding your logic, wherever necessary.
-- Consider sending us your solution via a gist.
+### 1 . From the command line you point to the this directory 
 
----------  
-Challenge  
----------  
-You are provided with a dataset. Your challenge consists of the following two parts  
+### 2 . To run the script, there are two arguments: 
+        - The first one is the file path you wish to test, i.e \dataset ,  
+            you should either put the full absolut path or  
+            the file inside this directory like the example below 
 
---- Part One ---  
-Find the two entries that sum to 2020 and then multiply those two numbers together.  
-For example, suppose your dataset contained the following:  
+        - The second  argument is which part you want to try,  
+            either you type part1 or part2 
+
+### 3. Example of what you should type in the command line 
+
+ - For part one with the dataset given
+```bash
+python kaue \dataset part1
 ```
-1721  
-979  
-366  
-299  
-675  
-1456
-```  
-In this list, the two entries that sum to 2020 are 1721 and 299.  
-Multiplying them together produces 1721 * 299 = 514579, so the correct answer is 514579.   
-Of course, your actual dataset is much larger.   
-Find the two entries that sum to 2020; what do you get if you multiply them together?  
 
---- Part Two ---  
-Find three numbers in your dataset that meet the same criteria.  
-Using the above example again, the three entries that sum to 2020 are 979, 366, and 675.   
-Multiplying them together produces the answer, 241861950.  
-In your dataset, what is the product of the three entries that sum to 2020?  
+ - For part two with the dataset given
+```bash
+python kaue \dataset part2
+```
+### 4. After this, it will print the results and also save it in a txt file with the endings according with each part 
+
+
+### 5. Thanks for the Coding Challenge and I hope to hear from you soon =)  
+
+## Kaue
